@@ -1,1 +1,0 @@
-import { bot } from './handlers.js';
